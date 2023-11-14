@@ -1,0 +1,7 @@
+C:\Users\landw\source\repos\ConsoleMode\bin\Release\stego.exe.config
+C:\Users\landw\source\repos\ConsoleMode\bin\Release\stego.exe
+C:\Users\landw\source\repos\ConsoleMode\bin\Release\stego.pdb
+C:\Users\landw\source\repos\ConsoleMode\obj\Release\stego.csproj.AssemblyReference.cache
+C:\Users\landw\source\repos\ConsoleMode\obj\Release\stego.csproj.CoreCompileInputs.cache
+C:\Users\landw\source\repos\ConsoleMode\obj\Release\stego.exe
+C:\Users\landw\source\repos\ConsoleMode\obj\Release\stego.pdb
